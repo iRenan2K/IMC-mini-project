@@ -1,4 +1,4 @@
-# IMC-mini-project
+# IMC Mini Project
 
 This is an ultra basic Body Mass Index (BMI/IMC) calculator, showcasing the foundational principles of C programming language.
 
