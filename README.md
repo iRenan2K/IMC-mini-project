@@ -7,5 +7,5 @@ Follow the instructions to execute the program:
 
 1.   Click on `Download ZIP` at the green button `<> Code`
 2.   Extract the archive to your machine (Desktop folder recommended)
-3.   Open the Windows Command Prompt and navigate to the directory where the IMC file is located, using `cd`
+3.   Open the Windows Command Prompt and use `cd` to navigate to the directory where the IMC file is located
 4.   Run `a.exe` to launch the code    
