@@ -2,9 +2,7 @@
 
 int main(){
 
-    float weight;
-    float height;
-    float IMC;
+    float weight, height, IMC;
 
     printf("\nHello! Welcome to the IMC/BMI calculator!\n");
     printf("Let's calculate your Body Mass Index (IMC/BMI), in kilograms per square meter, by doing: IMC = weight / (height*height)\n");
