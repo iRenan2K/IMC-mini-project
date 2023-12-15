@@ -1,6 +1,6 @@
 # BMI/IMC Mini Project
 
-This is an ultra basic Body Mass Index (BMI/IMC) calculator, showcasing the foundational principles of C programming language.
+This is an simplist Body Mass Index (BMI/IMC) calculator, showcasing the foundational principles of C programming language.
 
 
 Follow the instructions to execute the program:
